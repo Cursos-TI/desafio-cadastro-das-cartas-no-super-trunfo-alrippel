@@ -87,7 +87,6 @@ int main() {
     printf("Pontos turisticos da cidade: %d \n", pontos_turisticos2);
 
     printf(" \n");
-
     printf("Cadastro com Sucesso!");
 
 return 0;
